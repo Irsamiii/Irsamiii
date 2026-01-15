@@ -1,14 +1,11 @@
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20I'm%20Samii&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0033,50:1a004d,100:330066&height=200&section=header&text=Hi%20I'm%20Samii&fontSize=40&fontColor=ffffff" />
 </p>
+
 
 <!-- INTRO -->
 <h2 align="center">A passionate learner & developer 💻</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Irsamiii&label=Profile%20views&color=blueviolet&style=flat" />
-</p>
 
 ---
 
@@ -28,18 +25,32 @@
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Irsamiii&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Irsamiii&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irsamiii&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irsamiii&layout=compact&theme=dark&hide_border=true" />
 </p>
+
 
 ---
 
 ## 🤝 Connect With Me
 <p>
-  <a href="https://github.com/Irsamiii">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  
+
+  <a href="https://www.linkedin.com/in/Samuella Iranzi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  
+
+  <a href="mailto:samuellairanzi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+    <a href="https://wa.me/250790795392" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
 </p>
+
