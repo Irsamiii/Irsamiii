@@ -23,18 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Irsamiii&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irsamiii&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-
----
-
 ## 🤝 Connect With Me
 <p>
   
