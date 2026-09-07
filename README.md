@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b0033,50:1a004d,100:330066&height=220&section=header&text=Samuella&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Rwanda%20Coding%20Academy&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b0033,50:1a004d,100:330066&height=150&section=header" />
 </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&height=60&lines=Iranzi+Samuella;Irsamiii" alt="Typing name" />
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Building+with+PHP%2C+Java+%26+JavaScript;Always+learning+something+new" alt="Typing SVG" />
