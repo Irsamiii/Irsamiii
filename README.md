@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b0033,50:1a004d,100:330066&height=220&section=header&text=Samuella%20Iranzi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Rwanda%20Coding%20Academy&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b0033,50:1a004d,100:330066&height=220&section=header&text=Samuella&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Rwanda%20Coding%20Academy&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Fullstack Developer** and student at **Rwanda Coding Academy**, passionate about building projects, solving problems, and learning something new every day. I enjoy working across the stack — from crafting front-end interfaces to building the back-end systems that power them.
+I'm a  student at **Rwanda Coding Academy** and a **Fullstack Developer**, passionate about building projects, solving problems, and learning something new every day. I enjoy working across the stack — from crafting front-end interfaces to building the back-end systems that power them.
 
 ---
 
@@ -16,7 +16,6 @@ I'm a **Fullstack Developer** and student at **Rwanda Coding Academy**, passiona
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,php,java,godot,react,nextjs,nodejs,nestjs,git,github)](https://skillicons.dev)
 
-> Note: there's no dedicated **GDScript** icon on skillicons.dev, so the **Godot** engine icon is used to represent it.
 
 ---
 
