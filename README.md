@@ -16,8 +16,8 @@ I'm a  student at **Rwanda Coding Academy** and a **Fullstack Developer**, passi
 ---
 
 ## 🛠 Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,php,java,godot,react,nextjs,nodejs,nestjs,git,github)](https://skillicons.dev)
+ 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c,cpp,php,java,godot,react,nextjs,nodejs,nestjs,git,github)](https://skillicons.dev)
 
 
 ---
