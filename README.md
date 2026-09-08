@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a  student at **Rwanda Coding Academy** and a **Fullstack Developer & Designer**, passionate about building projects, solving problems, and learning something new every day. I enjoy working across the stack, from designing interfaces to building the front-end and back-end systems that bring them to life.
+I'm a student at **Rwanda Coding Academy** and a **Fullstack Developer & Designer**, passionate about building projects, solving problems, and learning something new every day. I enjoy working across the stack, from designing interfaces to building the front-end and back-end systems that bring them to life.
 ---
 
 ## 🛠 Tech Stack
