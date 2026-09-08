@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b0033,50:1a004d,100:330066&height=150&section=header" />
 </p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&height=60&lines=Iranzi+Samuella;Irsamiii" alt="Typing name" />
 </h1>
@@ -12,12 +13,12 @@
 ## 👩‍💻 About Me
 
 I'm a student at **Rwanda Coding Academy** and a **Fullstack Developer & Designer**, passionate about building projects, solving problems, and learning something new every day. I enjoy working across the stack, from designing interfaces to building the front-end and back-end systems that bring them to life.
+
 ---
 
 ## 🛠 Tech Stack
- 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c,cpp,php,java,godot,react,nextjs,nodejs,nestjs,figma,git,github)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c,cpp,php,java,godot,react,nextjs,nodejs,nestjs,figma,git,github)](https://skillicons.dev)
 
 ---
 
