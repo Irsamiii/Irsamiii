@@ -6,18 +6,17 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Designer;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 ## 👩‍💻 About Me
 
-I'm a  student at **Rwanda Coding Academy** and a **Fullstack Developer**, passionate about building projects, solving problems, and learning something new every day. I enjoy working across the stack — from crafting front-end interfaces to building the back-end systems that power them.
-
+I'm a  student at **Rwanda Coding Academy** and a **Fullstack Developer & Designer**, passionate about building projects, solving problems, and learning something new every day. I enjoy working across the stack, from designing interfaces to building the front-end and back-end systems that bring them to life.
 ---
 
 ## 🛠 Tech Stack
  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c,cpp,php,java,godot,react,nextjs,nodejs,nestjs,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c,cpp,php,java,godot,react,nextjs,nodejs,nestjs,figma,git,github)](https://skillicons.dev)
 
 
 ---
